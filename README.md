@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 About Me
+🎓 Student of Systems Analysis and Development | Transitioning to tech
+🚀 Shifting from gastronomy to full-stack development
 
-<!--
-**maluairesp/maluairesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Pouso Alegre - MG, Brazil
 
-Here are some ideas to get you started:
+🛠️ Technical Skills
+Languages: 🐍 Python, 📜 JavaScript, ☕ Java, 🎨 HTML, 🖌️ CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks/Libraries: ⚛️ React (basic), 🟢 Node.js, 🔵 Next.js, 🕸️ BeautifulSoup, 🤖 Selenium
+
+Databases: 🗃️ MySQL, 🗄️ SQLite
+
+Tools: 🐙 Git, 💻 GitHub, 🖥️ Visual Studio Code, 📊 Astah, 📐 UML
+
+Concepts: 🔗 REST APIs, 🏗️ Software architecture, 🔄 Version control, 🎯 Scrum and Kanban
+
+
+🌐 Languages
+🇧🇷 Portuguese: Native
+
+🇺🇸 English: Fluent
+
+📞 Contact
+📧 malupeixotoo@gmail.com
+
+📞 +55 (11) 97272-8042
