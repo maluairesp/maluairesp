@@ -1,7 +1,6 @@
 👋 About Me
 🎓 Student of Systems Analysis and Development | Transitioning to tech
 🚀 Shifting from gastronomy to full-stack development
-
 📍 Pouso Alegre - MG, Brazil
 
 🛠️ Technical Skills
