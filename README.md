@@ -28,7 +28,4 @@
 
 🇺🇸 English: Fluent
 
-📞 Contact
-📧 malupeixotoo@gmail.com
 
-📞 +55 (11) 97272-8042
