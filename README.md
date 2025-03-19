@@ -1,18 +1,26 @@
 👋 About Me
+
 🎓 Student of Systems Analysis and Development | Transitioning to tech
+
 🚀 Shifting from gastronomy to full-stack development
+
 📍 Pouso Alegre - MG, Brazil
 
+
+
+
+
 🛠️ Technical Skills
-Languages: 🐍 Python, 📜 JavaScript, ☕ Java, 🎨 HTML, 🖌️ CSS
 
-Frameworks/Libraries: ⚛️ React (basic), 🟢 Node.js, 🔵 Next.js, 🕸️ BeautifulSoup, 🤖 Selenium
+📔 Languages: Python, JavaScript, Java, HTML, CSS
 
-Databases: 🗃️ MySQL, 🗄️ SQLite
+⚛️ Frameworks/Libraries: React (basic), Node.js, Next.js, BeautifulSoup, Selenium
 
-Tools: 🐙 Git, 💻 GitHub, 🖥️ Visual Studio Code, 📊 Astah, 📐 UML
+🗃️ Databases: MySQL, SQLite
 
-Concepts: 🔗 REST APIs, 🏗️ Software architecture, 🔄 Version control, 🎯 Scrum and Kanban
+📐 Tools: Git, GitHub,  Visual Studio Code, Astah, UML
+
+🏗️ Concepts: REST APIs, Software architecture, Version control, Scrum and Kanban
 
 
 🌐 Languages
