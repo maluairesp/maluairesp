@@ -4,13 +4,13 @@
 
 🚀 Shifting from gastronomy to full-stack development
 
-📍 Pouso Alegre - MG, Brazil
 
 
 
 
 
-🛠️ Technical Skills
+
+Technical Skills:
 
 📔 Languages: Python, JavaScript, Java, HTML, CSS
 
